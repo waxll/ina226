@@ -1,0 +1,56 @@
+C:\Users\XieSenshi\Desktop\ina226\IAR\Debug\BrowseInfo\USER\main.pbi: \
+  C:\Users\XieSenshi\Desktop\ina226\USER\main.c \
+  C:\Users\XieSenshi\Desktop\ina226\USER\main.h \
+  C:\Users\XieSenshi\Desktop\ina226\USER\stm32f10x.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\CORE\core_cm3.h \
+  D:\Software\IAR\arm\inc\c\stdint.h D:\Software\IAR\arm\inc\c\ycheck.h \
+  D:\Software\IAR\arm\inc\c\yvals.h \
+  D:\Software\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Software\IAR\arm\inc\c\DLib_Config_Full.h \
+  D:\Software\IAR\arm\inc\c\DLib_Product.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\CORE\cmsis_version.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\CORE\cmsis_compiler.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\CORE\cmsis_iccarm.h \
+  D:\Software\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\XieSenshi\Desktop\ina226\USER\system_stm32f10x.h \
+  C:\Users\XieSenshi\Desktop\ina226\USER\stm32f10x_conf.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_adc.h \
+  C:\Users\XieSenshi\Desktop\ina226\USER\stm32f10x.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_bkp.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_can.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_cec.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_crc.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_dac.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_dbgmcu.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_dma.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_exti.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_flash.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_fsmc.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_gpio.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_i2c.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_iwdg.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_pwr.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_rcc.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_rtc.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_sdio.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_spi.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_tim.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_usart.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\stm32f10x_wwdg.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\LIB\inc\misc.h \
+  D:\Software\IAR\arm\inc\c\stdio.h D:\Software\IAR\arm\inc\c\ysizet.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\HARDWARE\led\led.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\HARDWARE\uart\uart.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\SYSTEM\delay\delay.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\SYSTEM\sys\sys.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\APP\oled\oled.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\RTT\SEGGER_RTT.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\RTT\SEGGER_RTT_Conf.h \
+  D:\Software\IAR\arm\inc\c\aarch32\intrinsics.h \
+  D:\Software\IAR\arm\inc\c\aarch32\iar_intrinsics_common.h \
+  D:\Software\IAR\arm\inc\c\stdlib.h \
+  D:\Software\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  D:\Software\IAR\arm\inc\c\stdarg.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\APP\ina226\ina226.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\HARDWARE\i2c\myiic.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\APP\iwdg.h

@@ -1,0 +1,8 @@
+si 1
+device stm32f103c8
+speed 12000
+r
+loadfile ./Objects/INA226.hex
+r
+g
+q

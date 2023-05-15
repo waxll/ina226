@@ -1,0 +1,18 @@
+C:\Users\XieSenshi\Desktop\ina226\IAR\Debug\BrowseInfo\SYSTEM\printf\printf.pbi: \
+  C:\Users\XieSenshi\Desktop\ina226\SYSTEM\printf\printf.c \
+  D:\Software\IAR\arm\inc\c\stdbool.h D:\Software\IAR\arm\inc\c\stdint.h \
+  D:\Software\IAR\arm\inc\c\ycheck.h D:\Software\IAR\arm\inc\c\yvals.h \
+  D:\Software\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Software\IAR\arm\inc\c\DLib_Config_Full.h \
+  D:\Software\IAR\arm\inc\c\DLib_Product.h \
+  C:\Users\XieSenshi\Desktop\ina226\SYSTEM\printf\printf.h \
+  D:\Software\IAR\arm\inc\c\stdarg.h D:\Software\IAR\arm\inc\c\stddef.h \
+  D:\Software\IAR\arm\inc\c\ysizet.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\RTT\SEGGER_RTT.h \
+  C:\Users\XieSenshi\Desktop\ina226\IAR\..\RTT\SEGGER_RTT_Conf.h \
+  D:\Software\IAR\arm\inc\c\aarch32\intrinsics.h \
+  D:\Software\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\Software\IAR\arm\inc\c\aarch32\iar_intrinsics_common.h \
+  D:\Software\IAR\arm\inc\c\stdlib.h \
+  D:\Software\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  D:\Software\IAR\arm\inc\c\float.h

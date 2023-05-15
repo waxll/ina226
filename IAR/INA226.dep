@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>2044335994</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_rcc.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_exti.c</file>
+            <file>$PROJ_DIR$\..\APP\oled\oled.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_crc.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_flash.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_cec.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_fsmc.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_gpio.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_i2c.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_iwdg.c</file>
+            <file>$PROJ_DIR$\..\HARDWARE\uart\uart.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_dma.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_pwr.c</file>
+            <file>$PROJ_DIR$\..\APP\ina226\ina226.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_adc.c</file>
+            <file>$PROJ_DIR$\..\APP\iwdg.c</file>
+            <file>$PROJ_DIR$\..\HARDWARE\i2c\myiic.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\misc.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_bkp.c</file>
+            <file>$PROJ_DIR$\..\HARDWARE\led\led.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_dac.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_can.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_dbgmcu.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\APP\oled\codetab.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SYSTEM\printf\printf.o</file>
+            <file>$PROJ_DIR$\Debug\List\INA226.map</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_crc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_dbgmcu.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_gpio.h</file>
+            <file>$PROJ_DIR$\..\USER\main.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTT\SEGGER_RTT_printf.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_spi.h</file>
+            <file>$PROJ_DIR$\..\CORE\cmsis_version.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_pwr.o</file>
+            <file>$PROJ_DIR$\..\SYSTEM\sys\sys.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_iwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\USER\main.o</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_i2c.o</file>
+            <file>$PROJ_DIR$\..\APP\oled\oled.h</file>
+            <file>$PROJ_DIR$\..\HARDWARE\i2c\myiic.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\SYSTEM\delay\delay.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\APP\ina226\ina226.o</file>
+            <file>$PROJ_DIR$\..\USER\stm32f10x.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_can.h</file>
+            <file>$PROJ_DIR$\..\CORE\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\APP\iwdg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_dac.o</file>
+            <file>$PROJ_DIR$\..\SYSTEM\delay\delay.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\USER\system_stm32f10x.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HARDWARE\led\led.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_crc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_dbgmcu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HARDWARE\uart\uart.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_flash.h</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT_Conf.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_pwr.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_cec.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_sdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\USER\stm32f10x_it.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_adc.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_wwdg.h</file>
+            <file>$PROJ_DIR$\..\HARDWARE\uart\uart.h</file>
+            <file>$PROJ_DIR$\..\CORE\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HARDWARE\i2c\myiic.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_rcc.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_tim.h</file>
+            <file>$PROJ_DIR$\..\USER\stm32f10x_conf.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_iwdg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTT\SEGGER_RTT.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_fsmc.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_usart.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\misc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_can.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_exti.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\INA226.hex</file>
+            <file>$PROJ_DIR$\..\CORE\core_cm3.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_cec.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_usart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_rcc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\float.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_spi.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_dac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\USER\system_stm32f10x.o</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_usart.c</file>
+            <file>$PROJ_DIR$\..\HARDWARE\led\led.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iar_intrinsics_common.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SYSTEM\sys\sys.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\APP\oled\oled.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_fsmc.o</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT.h</file>
+            <file>$PROJ_DIR$\..\USER\stm32f10x_it.h</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_dma.h</file>
+            <file>$PROJ_DIR$\..\SYSTEM\printf\printf.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f103xB.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\APP\iwdg\iwdg.o</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_rtc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_tim.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_bkp.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\INA226.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_sdio.o</file>
+            <file>$PROJ_DIR$\..\USER\stm32f10x_it.c</file>
+            <file>$PROJ_DIR$\..\SETUP\iar\startup_stm32f10x_md.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_dma.o</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_sdio.c</file>
+            <file>$PROJ_DIR$\..\SYSTEM\sys\sys.c</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT_printf.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_exti.o</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_rtc.c</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_spi.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\misc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_wwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIB\stm32f10x_adc.o</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_tim.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\LIB\src\stm32f10x_wwdg.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\RTT\SEGGER_RTT.c</file>
+            <file>$PROJ_DIR$\..\USER\main.c</file>
+            <file>$PROJ_DIR$\..\APP\ina226\ina226.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SETUP\startup_stm32f10x_md.o</file>
+            <file>$PROJ_DIR$\..\SYSTEM\delay\delay.c</file>
+            <file>$PROJ_DIR$\..\LIB\inc\stm32f10x_bkp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\..\USER\system_stm32f10x.c</file>
+            <file>$PROJ_DIR$\..\SYSTEM\printf\printf.c</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 127</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\APP\oled\oled.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 48 40 59 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_cec.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_fsmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\HARDWARE\uart\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 27 45 108 68 56 104 29 23 144</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 110 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\APP\ina226\ina226.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 140 40 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 48 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75 52 92 31 36 41 60 94 118 38 78 54 137 61 83 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\APP\iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 103</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\HARDWARE\i2c\myiic.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48 40 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 59 27 45</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_bkp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\HARDWARE\led\led.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_dbgmcu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 119 26</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\INA226.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 113 50 51 114 62 43 130 80 106 25 85 35 141 133 117 89 72 30 58 65 123 127 64 107 100 46 74 42 39 96 71 120 98 116 95 132 105 101 66 28 112 44 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\USER\stm32f10x_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 109 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\SETUP\iar\startup_stm32f10x_md.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 141</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_sdio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\SYSTEM\sys\sys.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\RTT\SEGGER_RTT_printf.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108 68 56 137 41 60 94 118 104 29 36 45 23 144</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 115 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LIB\src\stm32f10x_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\RTT\SEGGER_RTT.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108 68 56 137 41 60 94 118 104 29 36 45 23 144 135 131</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\USER\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88 27 45 103 77 59 40 47 108 68 56 104 29 23 144 140 48 55</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\SYSTEM\delay\delay.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59 40 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\USER\system_stm32f10x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52 92 31 36 41 60 94 118 38 78 54 137 61 83 75 143 53 93 63 99 32 110 90 67 86 33 79 84 69 81 115 73 37 82 87 76 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\SYSTEM\printf\printf.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 31 36 41 60 94 118 111 144 70 45 108 68 56 137 104 29 23 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

@@ -1,0 +1,5 @@
+{
+    "ewp": "${workspaceFolder}\\INA226.ewp",
+    "configuration": "Debug",
+    "toolchain": "d:\\Software\\IAR"
+}

@@ -1,0 +1,13 @@
+"D:\Software\IAR\arm\bin\armPROC.dll" 
+
+"D:\Software\IAR\arm\bin\armGDBSERV.dll" 
+
+"C:\Users\XieSenshi\Desktop\ina226\IAR\Debug\Exe\INA226.out" 
+
+--plugin="D:\Software\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\Software\IAR\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+
+
+

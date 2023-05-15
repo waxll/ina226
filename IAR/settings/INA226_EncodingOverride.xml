@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\APP\oled\oled.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\HARDWARE\i2c\myiic.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\HARDWARE\i2c\myiic.h</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\SYSTEM\delay\delay.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\SYSTEM\delay\delay.h</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\SYSTEM\sys\sys.c</path>
+        <encoding>UTF-8</encoding>
+    </override>
+    <override>
+        <path>C:\Users\XieSenshi\Desktop\ina226\SYSTEM\sys\sys.h</path>
+        <encoding>UTF-8</encoding>
+    </override>
+</userOverrides>
